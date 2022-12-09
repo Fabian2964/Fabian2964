@@ -8,7 +8,7 @@ Fast learner and eager to explore new technologies. Believer in "leading-by-exam
 
 🌱 Currently busy learning JavaScript.
 
-😀 If not busy crunching data, I love taking my motorcycle🏍️, snowboarding🏂, goinng for a run🏃 or spending time with my family👨‍👩‍👧. 
+😀 If not busy crunching data, I love taking my motorcycle🏍️, snowboarding🏂, running🏃 or spending time with my family👨‍👩‍👧. 
 
 
 <hr>
