@@ -39,7 +39,7 @@ Fast learner and eager to explore new technologies. Believer in "leading-by-exam
 <br>
 
 <p>
-    <img src="https://github.com/Fabian2964/Fabian2964/blob/main/CRISP%20DM%20Cycle.png" width="350" alt="Image showing CRISP DM Cycle">
+    <img src="https://github.com/Fabian2964/Fabian2964/blob/main/CRISP%20DM%20Cycle.png" width="250" alt="Image showing CRISP DM Cycle">
 
 ![text](https://img.shields.io/static/v1?label=&message=CRISP-DM%20Cycle&color=111&style=flat-square)
 <br>
