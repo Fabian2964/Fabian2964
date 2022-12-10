@@ -1,7 +1,7 @@
 <img src="https://github.com/Fabian2964/Fabian2964/blob/main/Kluge%20koepfe%20faz.png" width="1000" alt="Image showing Fabian Paul"> 
 
 &#12299;6+ years professional experience as data analyst and scientist in media and subscription space. 
-<br>&#12299;Experience in managing data teams with >9 FTEs of data analysts, web analysts and data scientists, managing +€100k data projects, building dashboard landscapes from scratch and bringing machine learning models (supervised and unsupervised) to production.
+<br>&#12299;Experience in managing data teams with >8 FTEs of data analysts, web analysts and data scientists, managing +€100k data projects, building dashboard landscapes from scratch and bringing machine learning models (supervised and unsupervised) to production.
 <br>&#12299;Competences cover data projects "end-to-end" along the components of CRISP DM cycle.
 
 Fast learner and eager to explore new technologies. Believer in "leading-by-example" combining people management and hands-on mentality. Strictly results-driven🎯, able to switch between perfectionism and pragmatism. Believer in agile processes, self-responsibility of teams, personal development and team work👯. Questioning the status quo and wanting to improve. Specific expertise in Python, PowerBI and Excel. Yes, Excel, with all shortcuts and efficiency gains😉. 
