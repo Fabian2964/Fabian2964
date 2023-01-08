@@ -20,6 +20,8 @@ Fast learner and eager to explore new technologies. Believer in "leading-by-exam
 ![text](https://img.shields.io/static/v1?label=&message=and%20a%20bit%20of%20&color=111&style=flat-square)
 ![mongoql](https://img.shields.io/static/v1?logo=mongodb&label=&message=MQL&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=36465D&logoColor=AAA&style=flat-square&link=)
+![html](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square&link=)
+![html](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 <br>
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
